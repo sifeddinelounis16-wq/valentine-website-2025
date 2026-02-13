@@ -76,7 +76,7 @@ const CONFIG = {
     // Background Music (Optional)
     // Add your own music URL after getting proper licenses
     music: {
-        enabled: true,                     // Music feature is enabled
+        enabled: false,                     // Music feature is enabled
         autoplay: false,                    // Try to autoplay (note: some browsers may block this)
         musicUrl: "https://res.cloudinary.com/dzuogb2l3/video/upload/v1771017975/coldplay_-_A_Sky_Full_Of_Stars_Lyrics_mbdlw0.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
